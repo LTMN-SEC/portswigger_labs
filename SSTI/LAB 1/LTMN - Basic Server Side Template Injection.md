@@ -14,7 +14,7 @@ Lab Normal Page
 
 Recon Objective: Find an injection entry point
 
-![[Pasted image 20260624060214.png]]
+![](images/Pasted%20image%2020260624060214.png)
 
 Found by clicking the first product.
 
