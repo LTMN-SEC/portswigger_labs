@@ -5,7 +5,7 @@ Lab Tips: This lab is vulnerable to server-side template injection due to the un
 
 Lab Normal Page
 
-![[Pasted image 20260624060147.png]]
+![](images/Pasted image 20260624060147.png)
 
 
 **Ethical Hacking Process:**
