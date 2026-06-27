@@ -1,6 +1,6 @@
 # LTMN - Basic Server Side Template Injection
 
-
+<br>
 
 Lab Objective: Delete the `morale.txt` file from Carlos's home directory.
 
@@ -13,7 +13,7 @@ Lab Normal Page
 
 ## Ethical Hacking Process
 
-
+<br>
 
 
 *Recon*
