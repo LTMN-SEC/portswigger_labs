@@ -1,5 +1,7 @@
 # LTMN - Basic Server Side Template Injection
 
+
+
 Lab Objective: Delete the `morale.txt` file from Carlos's home directory.
 
 Lab Tips: This lab is vulnerable to server-side template injection due to the unsafe construction of an ERB template
@@ -27,11 +29,11 @@ Test Payload: `<%= 7*7 %>`
 
 The payload must return 49 as an expected result
 
-![[Pasted image 20260624060705.png]]
+![](Pasted%20image%2020260624060705.png)
 
 Page Reaction
 
-![[Pasted image 20260624060738.png]]
+![](Pasted%20image%2020260624060738.png)
 
 It executes! so it is vulnerable
 
@@ -42,9 +44,9 @@ Proceeding to the main objective which is to delete the `morale.txt` file from C
 
 Payload: `<%= system("rm /home/carlos/morale.txt") %>`
 
-![[Pasted image 20260624060807.png]]
+![](Pasted%20image%2020260624060807.png)
 
-![[Pasted image 20260624060820.png]]
+![](Pasted%20image%2020260624060820.png)
 
 
 
