@@ -11,7 +11,7 @@ Lab Normal Page
 ![](images/Pasted%20image%2020260624060147.png)
 
 
-**Ethical Hacking Process:**
+## Ethical Hacking Process
 
 *Recon*
 
