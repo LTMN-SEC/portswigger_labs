@@ -26,9 +26,11 @@ Recon Objective: Find an injection entry point
 
 Found by clicking the first product.
 
-
+<br>
 
 *Vulnerability Scanning:*
+
+<br>
 
 Test Payload: `<%= 7*7 %>`
 
@@ -42,8 +44,11 @@ Page Reaction
 
 It executes! so it is vulnerable
 
+<br>
 
 *Exploitation:*
+
+<br>
 
 Proceeding to the main objective which is to delete the `morale.txt` file from Carlos's home directory.
 
